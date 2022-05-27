@@ -1,4 +1,4 @@
-# React Complete Guide - useContext and forwardRef practice
+# useContext and useRef
 
 I decided to take a course on Udemy to get stronger on my React skills. This particular project focuses on utilizing `useContext()` and `forwardRef()`.
 
