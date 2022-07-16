@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-complete-guide-useContext-useRef/static/css/main.906301ab.css",
+    "main.js": "/react-complete-guide-useContext-useRef/static/js/main.ff6687e9.js",
+    "index.html": "/react-complete-guide-useContext-useRef/index.html",
+    "main.906301ab.css.map": "/react-complete-guide-useContext-useRef/static/css/main.906301ab.css.map",
+    "main.ff6687e9.js.map": "/react-complete-guide-useContext-useRef/static/js/main.ff6687e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.906301ab.css",
+    "static/js/main.ff6687e9.js"
+  ]
+}
